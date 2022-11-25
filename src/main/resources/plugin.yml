@@ -1,0 +1,6 @@
+name: OraxenCustomMechanics
+version: '${version}'
+main: com.github.rexblane.ocmechanic.Main
+depend: [ Oraxen ]
+api-version: 1.19
+authors: [ Rok ]
